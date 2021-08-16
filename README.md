@@ -86,55 +86,11 @@ Do not suggest LEDs when in manual mode – they just blinking randomly :)<br>
 <span style="color: #ff0000;">ATTENTION – Firmware 2.1x NEED a pcb updated to version 2h!</span></p>
 <hr>
 <h3>Gallery:</h3>
-<p>
-		
-		<div id="gallery-1" class="gallery galleryid-230 gallery-columns-8 gallery-size-thumbnail"><dl class="gallery-item">
-			<dt class="gallery-icon landscape">
-				<a href="pics/prototype_doc.jpg"><img src="pics/prototype_doc-100x100.jpg" class="attachment-thumbnail size-thumbnail" alt="" width="100" height="100"></a>
-			</dt></dl><dl class="gallery-item">
-			<dt class="gallery-icon landscape">
-				<a href="pics/mega_doctor_render.jpg"><img src="pics/mega_doctor_render-100x100.jpg" class="attachment-thumbnail size-thumbnail" alt="" width="100" height="100"></a>
-			</dt></dl><dl class="gallery-item">
-			<dt class="gallery-icon landscape">
-				<a href="pics/mega_fusebit_doctor_4.jpg"><img src="pics/mega_fusebit_doctor_4-100x100.jpg" class="attachment-thumbnail size-thumbnail" alt="" width="100" height="100"></a>
-			</dt></dl><dl class="gallery-item">
-			<dt class="gallery-icon landscape">
-				<a href="pics/mega_fusebit_doctor_5.jpg"><img src="pics/mega_fusebit_doctor_5-100x100.jpg" class="attachment-thumbnail size-thumbnail" alt="" width="100" height="100"></a>
-			</dt></dl><dl class="gallery-item">
-			<dt class="gallery-icon landscape">
-				<a href="pics/mega_fusebit_doctor_3.jpg"><img src="pics/mega_fusebit_doctor_3-100x100.jpg" class="attachment-thumbnail size-thumbnail" alt="" width="100" height="100"></a>
-			</dt></dl><dl class="gallery-item">
-			<dt class="gallery-icon landscape">
-				<a href="pics/mega_fusebit_doctor_1.jpg"><img src="pics/mega_fusebit_doctor_1-100x100.jpg" class="attachment-thumbnail size-thumbnail" alt="" width="100" height="100"></a>
-			</dt></dl><dl class="gallery-item">
-			<dt class="gallery-icon landscape">
-				<a href="pics/mega_fusebit_doctor_2.jpg"><img src="pics/mega_fusebit_doctor_2-100x100.jpg" class="attachment-thumbnail size-thumbnail" alt="" width="100" height="100"></a>
-			</dt></dl><dl class="gallery-item">
-			<dt class="gallery-icon landscape">
-				<a href="pics/fusebit_doctor_adapters_1.jpg"><img src="pics/fusebit_doctor_adapters_1-100x100.jpg" class="attachment-thumbnail size-thumbnail" alt="" width="100" height="100"></a>
-			</dt></dl><br style="clear: both"><dl class="gallery-item">
-			<dt class="gallery-icon landscape">
-				<a href="pics/fusebit_doctor_adapters_2.jpg"><img src="pics/fusebit_doctor_adapters_2-100x100.jpg" class="attachment-thumbnail size-thumbnail" alt="" width="100" height="100"></a>
-			</dt></dl><dl class="gallery-item">
-			<dt class="gallery-icon landscape">
-				<a href="pics/fusebit_doctor_adapters_3.jpg"><img src="pics/fusebit_doctor_adapters_3-100x100.jpg" class="attachment-thumbnail size-thumbnail" alt="" width="100" height="100"></a>
-			</dt></dl><dl class="gallery-item">
-			<dt class="gallery-icon landscape">
-				<a href="pics/fusebit_doctor_adapters_4.jpg"><img src="pics/fusebit_doctor_adapters_4-100x100.jpg" class="attachment-thumbnail size-thumbnail" alt="" width="100" height="100"></a>
-			</dt></dl><dl class="gallery-item">
-			<dt class="gallery-icon portrait">
-				<a href="pics/fix_tiny13.png"><img src="pics/fix_tiny13-100x100.png" class="attachment-thumbnail size-thumbnail" alt="" width="100" height="100"></a>
-			</dt></dl><dl class="gallery-item">
-			<dt class="gallery-icon portrait">
-				<a href="pics/mess_tiny13.png"><img src="pics/mess_tiny13-100x100.png" class="attachment-thumbnail size-thumbnail" alt="" width="100" height="100"></a>
-			</dt></dl><dl class="gallery-item">
-			<dt class="gallery-icon landscape">
-				<a href="pics/pins-help.png"><img src="pics/pins-help-100x100.png" class="attachment-thumbnail size-thumbnail" alt="" width="100" height="100"></a>
-			</dt></dl>
-			<br style="clear: both">
-		</div>
-</p>
-<p><iframe src="https://www.youtube.com/watch?v=Hfc4Ngo1CO4" allowfullscreen="" width="800" height="600" frameborder="0"></iframe></p>
+<ul><li><a href="pics/prototype_doc.jpg"><img src="pics/prototype_doc-100x100.jpg" class="attachment-thumbnail size-thumbnail" alt="" width="100" height="100"></a></li><li><a href="pics/mega_doctor_render.jpg"><img src="pics/mega_doctor_render-100x100.jpg" class="attachment-thumbnail size-thumbnail" alt="" width="100" height="100"></a></li><li><a href="pics/mega_fusebit_doctor_4.jpg"><img src="pics/mega_fusebit_doctor_4-100x100.jpg" class="attachment-thumbnail size-thumbnail" alt="" width="100" height="100"></a></li><li><a href="pics/mega_fusebit_doctor_5.jpg"><img src="pics/mega_fusebit_doctor_5-100x100.jpg" class="attachment-thumbnail size-thumbnail" alt="" width="100" height="100"></a></li><li><a href="pics/mega_fusebit_doctor_3.jpg"><img src="pics/mega_fusebit_doctor_3-100x100.jpg" class="attachment-thumbnail size-thumbnail" alt="" width="100" height="100"></a></li><li><a href="pics/mega_fusebit_doctor_1.jpg"><img src="pics/mega_fusebit_doctor_1-100x100.jpg" class="attachment-thumbnail size-thumbnail" alt="" width="100" height="100"></a></li><li><a href="pics/mega_fusebit_doctor_2.jpg"><img src="pics/mega_fusebit_doctor_2-100x100.jpg" class="attachment-thumbnail size-thumbnail" alt="" width="100" height="100"></a></li><li><a href="pics/fusebit_doctor_adapters_1.jpg"><img src="pics/fusebit_doctor_adapters_1-100x100.jpg" class="attachment-thumbnail size-thumbnail" alt="" width="100" height="100"></a></li><li><a href="pics/fusebit_doctor_adapters_2.jpg"><img src="pics/fusebit_doctor_adapters_2-100x100.jpg" class="attachment-thumbnail size-thumbnail" alt="" width="100" height="100"></a></li><li><a href="pics/fusebit_doctor_adapters_3.jpg"><img src="pics/fusebit_doctor_adapters_3-100x100.jpg" class="attachment-thumbnail size-thumbnail" alt="" width="100" height="100"></a></li><li><a href="pics/fusebit_doctor_adapters_4.jpg"><img src="pics/fusebit_doctor_adapters_4-100x100.jpg" class="attachment-thumbnail size-thumbnail" alt="" width="100" height="100"></a></li><li><a href="pics/fix_tiny13.png"><img src="pics/fix_tiny13-100x100.png" class="attachment-thumbnail size-thumbnail" alt="" width="100" height="100"></a></li><li><a href="pics/mess_tiny13.png"><img src="pics/mess_tiny13-100x100.png" class="attachment-thumbnail size-thumbnail" alt="" width="100" height="100"></a></li><li><a href="pics/pins-help.png"><img src="pics/pins-help-100x100.png" class="attachment-thumbnail size-thumbnail" alt="" width="100" height="100"></a></li></ul>
+
+
+<h3>Video</h3>
+https://www.youtube.com/watch?v=Hfc4Ngo1CO4  
 <hr>
 
 
