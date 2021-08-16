@@ -60,7 +60,7 @@ handshake: none</p>
 <p><a href="pics/prototype_doc.jpg"><img src="pics/prototype_doc-400x300.jpg" alt="prototype_doc" width="300" height="225"></a>Use one of the following microcontrollers as the doctor-chip: Atmega8, Atmega88, Atmega88P, Atmega168, Atmega168P, Atmega328, Atmega328P – and their newer/low-voltage “A” or “L” versions.<br>
 Use stabilized 12V supply voltage. Higher voltage can damage fixed chip!</p>
 <p>Code was written based on high-voltage parallel and serial programming section of datasheet of suitable AVRs.<br>
-If you are searching for <strong>attiny</strong> family AVR’s fusebits fix device, then check my previous project, the <a title="How to fix dead AVR Attiny fusebits" href="https://web.archive.org/web/20180225102717/http://mdiy.pl/attiny-fusebit-hvsp-doctor/#eng" target="_blank"><strong>Attiny fusebit doctor</strong></a>. Unfortunately, some bugs show off and this project is no longer updated since the “Atmega fusebit doctor” supports all the Attiny family AVRs. But, source code is attached for this project, and with avr datasheet, it will be easy to understand this programming mechanism.<br>
+If you are searching for <strong>attiny</strong> family AVR’s fusebits fix device, then check my previous project, the <a title="How to fix dead AVR Attiny fusebits" href="https://web.archive.org/web/20180810182515/http://mdiy.pl/attiny-fusebit-hvsp-doctor/?lang=en" target="_blank"><strong>Attiny fusebit doctor</strong></a>. Unfortunately, some bugs show off and this project is no longer updated since the “Atmega fusebit doctor” supports all the Attiny family AVRs. But, source code is attached for this project, and with avr datasheet, it will be easy to understand this programming mechanism.<br>
 </p>
 <br>
 <h3>Fusebits:</h3>
